@@ -1,5 +1,7 @@
 # Basketball Slices
 
+https://mikeroher.shinyapps.io/basketball_slices/
+
 ## Introduction
 
 > Summarize NBA player abilities with beautiful charts!    
