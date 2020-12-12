@@ -1,12 +1,13 @@
 # Basketball Slices
 
+
+> Summarize NBA player abilities with beautiful charts!    
+
 https://mikeroher.shinyapps.io/basketball_slices/
 
 ## Introduction
 
-> Summarize NBA player abilities with beautiful charts!    
-
-![Steven Adams chart](example.png)
+<img src="example.png" width="50%"  alt="Steven Adams Chart" />
 
 The numbers shown are percentile ranks across position groups (Guards, Wings, Centers). They are not the pecentage values. This means a larger number indicates the player is better than his peers on a particular statistic. For example, Steven Adams has an 88 in pctORB (see below). This means he is 88th percentile among all centers at collecting available offensive rebounds.
 
